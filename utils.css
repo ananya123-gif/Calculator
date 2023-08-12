@@ -1,0 +1,25 @@
+.text-center{
+    text-align: center;
+}
+
+.flex{
+    display: flex;
+}
+
+.flex-col{
+    flex-direction: column;
+}
+
+.item-center{
+    align-items: center;
+}
+
+.btn-red{
+    color: white;
+    background-color: rgb(232, 54, 54);
+}
+
+.btn-extra{
+    color: white;
+    background-color: rgb(174, 40, 40);
+}
